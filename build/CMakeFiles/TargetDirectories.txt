@@ -1,3 +1,0 @@
-/home/linus/code/GITHUB/stixel/build/CMakeFiles/rebuild_cache.dir
-/home/linus/code/GITHUB/stixel/build/CMakeFiles/stixel.dir
-/home/linus/code/GITHUB/stixel/build/CMakeFiles/edit_cache.dir
