@@ -100,7 +100,7 @@ class FreeSpace
             const float SCORE_DEFAULT = 1.f;
 
             int u;
-            //#pragma omp parallel for
+            #pragma omp parallel for
             for (u = 0; u < umax; u++)
             {
                 // compute and accumlate differences between measured disparity and expected road disparity
